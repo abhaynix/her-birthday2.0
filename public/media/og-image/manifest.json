@@ -1,0 +1,31 @@
+{
+  "slotId": "og-image",
+  "processedAt": "2026-10-19T18:21:32.426Z",
+  "images": [
+    {
+      "source": "girl7.webp",
+      "sourceWidth": 300,
+      "sourceHeight": 400,
+      "sourceSize": 39876,
+      "blurPlaceholder": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADwAgCdASoPABQAPzmGulQ+qSWkMAgD0CcJYwC06C2xAAD+0CwCnwGKccs1uGgmCAAAAA==",
+      "variants": [
+        {
+          "width": 300,
+          "height": 400,
+          "avif": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/og-image/girl7-300.avif",
+            "size": 21688
+          },
+          "webp": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/og-image/girl7-300.webp",
+            "size": 37586
+          },
+          "jpeg": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/og-image/girl7-300.jpg",
+            "size": 27411
+          }
+        }
+      ]
+    }
+  ]
+}

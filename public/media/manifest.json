@@ -1,0 +1,857 @@
+{
+  "slots": {
+    "threejs-memory": [
+      {
+        "source": "girl4.webp",
+        "sourceWidth": 300,
+        "sourceHeight": 400,
+        "sourceSize": 18984,
+        "blurPlaceholder": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAAAwAwCdASoPABQAPzmKulQ/qaWjMAgD8CcJYwAAg8SBJqcAAP7j1/xLY9xLT2AkHKL5QgAA",
+        "variants": [
+          {
+            "width": 256,
+            "height": 512,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/threejs-memory/girl4-256.avif",
+              "size": 8688
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/threejs-memory/girl4-256.webp",
+              "size": 12554
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/threejs-memory/girl4-256.jpg",
+              "size": 12920
+            }
+          }
+        ]
+      },
+      {
+        "source": "girl6.webp",
+        "sourceWidth": 300,
+        "sourceHeight": 400,
+        "sourceSize": 34026,
+        "blurPlaceholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAgCdASoPABQAPzmEuVOvKKWisAgB4CcJQBdgBaSAAP65nWfoPi2bEsPMz4AA",
+        "variants": [
+          {
+            "width": 256,
+            "height": 512,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/threejs-memory/girl6-256.avif",
+              "size": 12447
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/threejs-memory/girl6-256.webp",
+              "size": 20696
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/threejs-memory/girl6-256.jpg",
+              "size": 17549
+            }
+          }
+        ]
+      },
+      {
+        "source": "girl7.webp",
+        "sourceWidth": 300,
+        "sourceHeight": 400,
+        "sourceSize": 39876,
+        "blurPlaceholder": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADwAgCdASoPABQAPzmGulQ+qSWkMAgD0CcJYwC06C2xAAD+0CwCnwGKccs1uGgmCAAAAA==",
+        "variants": [
+          {
+            "width": 256,
+            "height": 512,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/threejs-memory/girl7-256.avif",
+              "size": 13206
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/threejs-memory/girl7-256.webp",
+              "size": 23032
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/threejs-memory/girl7-256.jpg",
+              "size": 18436
+            }
+          }
+        ]
+      },
+      {
+        "source": "girl8.webp",
+        "sourceWidth": 300,
+        "sourceHeight": 400,
+        "sourceSize": 39446,
+        "blurPlaceholder": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAABQAwCdASoPABQAPzmIulQ+qSWkMAgD0CcJYwC7ACzu2XQ4QAD+ku9IVbxDE5yVkzEiAAAA",
+        "variants": [
+          {
+            "width": 256,
+            "height": 512,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/threejs-memory/girl8-256.avif",
+              "size": 13048
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/threejs-memory/girl8-256.webp",
+              "size": 22914
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/threejs-memory/girl8-256.jpg",
+              "size": 18190
+            }
+          }
+        ]
+      }
+    ],
+    "polaroid-board": [
+      {
+        "source": "girl5.webp",
+        "sourceWidth": 225,
+        "sourceHeight": 400,
+        "sourceSize": 16382,
+        "blurPlaceholder": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADwAgCdASoLABQAPzmGuVOvKSWisAgB4CcJYwCdAC2xAAD+48oMWEBM0z+s+uVRgAA=",
+        "variants": [
+          {
+            "width": 225,
+            "height": 400,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/polaroid-board/girl5-225.avif",
+              "size": 9151
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/polaroid-board/girl5-225.webp",
+              "size": 15162
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/polaroid-board/girl5-225.jpg",
+              "size": 14951
+            }
+          }
+        ]
+      },
+      {
+        "source": "girl9.webp",
+        "sourceWidth": 225,
+        "sourceHeight": 400,
+        "sourceSize": 20636,
+        "blurPlaceholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAgCdASoLABQAPzmIu1Q0qSYjMAgCkCcJQAAPlAAAzLXYT9boAZ/u9Xb975gA",
+        "variants": [
+          {
+            "width": 225,
+            "height": 400,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/polaroid-board/girl9-225.avif",
+              "size": 11726
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/polaroid-board/girl9-225.webp",
+              "size": 19402
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/polaroid-board/girl9-225.jpg",
+              "size": 15900
+            }
+          }
+        ]
+      },
+      {
+        "source": "girl10.webp",
+        "sourceWidth": 225,
+        "sourceHeight": 400,
+        "sourceSize": 13690,
+        "blurPlaceholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADwAgCdASoLABQAPzmGuVO0qSWisAgCkCcJZQC7AC2xAAD+ucBIlx9g+8KGAAAA",
+        "variants": [
+          {
+            "width": 225,
+            "height": 400,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/polaroid-board/girl10-225.avif",
+              "size": 7739
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/polaroid-board/girl10-225.webp",
+              "size": 12568
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/polaroid-board/girl10-225.jpg",
+              "size": 12006
+            }
+          }
+        ]
+      },
+      {
+        "source": "girl11.webp",
+        "sourceWidth": 225,
+        "sourceHeight": 400,
+        "sourceSize": 19718,
+        "blurPlaceholder": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAAAwAwCdASoLABQAPzmGulQ+qSWjMAgD0CcJZQAAeudBqR1gAP7N2JpYyIIZPK1wAAA=",
+        "variants": [
+          {
+            "width": 225,
+            "height": 400,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/polaroid-board/girl11-225.avif",
+              "size": 10229
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/polaroid-board/girl11-225.webp",
+              "size": 18556
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/polaroid-board/girl11-225.jpg",
+              "size": 15856
+            }
+          }
+        ]
+      },
+      {
+        "source": "girl12.webp",
+        "sourceWidth": 225,
+        "sourceHeight": 400,
+        "sourceSize": 23734,
+        "blurPlaceholder": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAgCdASoLABQAPzmGuVO/qSWsMAgD8CcJQBdgBcBAAP7Wp/DAEcPt0leYnqSfQYAAAA==",
+        "variants": [
+          {
+            "width": 225,
+            "height": 400,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/polaroid-board/girl12-225.avif",
+              "size": 12545
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/polaroid-board/girl12-225.webp",
+              "size": 21898
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/polaroid-board/girl12-225.jpg",
+              "size": 17230
+            }
+          }
+        ]
+      },
+      {
+        "source": "girl13.webp",
+        "sourceWidth": 225,
+        "sourceHeight": 400,
+        "sourceSize": 15484,
+        "blurPlaceholder": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAgCdASoLABQAPzmGulQ/qSWjMAgD8CcJZQCdAC0kAAD+vYMtZLoYlK7dYenYk8XmAvDVAAA=",
+        "variants": [
+          {
+            "width": 225,
+            "height": 400,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/polaroid-board/girl13-225.avif",
+              "size": 8981
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/polaroid-board/girl13-225.webp",
+              "size": 14290
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/polaroid-board/girl13-225.jpg",
+              "size": 12595
+            }
+          }
+        ]
+      }
+    ],
+    "scrapbook-album": [
+      {
+        "source": "girl5.webp",
+        "sourceWidth": 225,
+        "sourceHeight": 400,
+        "sourceSize": 16382,
+        "blurPlaceholder": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADwAgCdASoLABQAPzmGuVOvKSWisAgB4CcJYwCdAC2xAAD+48oMWEBM0z+s+uVRgAA=",
+        "variants": [
+          {
+            "width": 225,
+            "height": 400,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl5-225.avif",
+              "size": 9151
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl5-225.webp",
+              "size": 15162
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl5-225.jpg",
+              "size": 14951
+            }
+          }
+        ]
+      },
+      {
+        "source": "girl9.webp",
+        "sourceWidth": 225,
+        "sourceHeight": 400,
+        "sourceSize": 20636,
+        "blurPlaceholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAgCdASoLABQAPzmIu1Q0qSYjMAgCkCcJQAAPlAAAzLXYT9boAZ/u9Xb975gA",
+        "variants": [
+          {
+            "width": 225,
+            "height": 400,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl9-225.avif",
+              "size": 11726
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl9-225.webp",
+              "size": 19402
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl9-225.jpg",
+              "size": 15900
+            }
+          }
+        ]
+      },
+      {
+        "source": "girl10.webp",
+        "sourceWidth": 225,
+        "sourceHeight": 400,
+        "sourceSize": 13690,
+        "blurPlaceholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADwAgCdASoLABQAPzmGuVO0qSWisAgCkCcJZQC7AC2xAAD+ucBIlx9g+8KGAAAA",
+        "variants": [
+          {
+            "width": 225,
+            "height": 400,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl10-225.avif",
+              "size": 7739
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl10-225.webp",
+              "size": 12568
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl10-225.jpg",
+              "size": 12006
+            }
+          }
+        ]
+      },
+      {
+        "source": "girl11.webp",
+        "sourceWidth": 225,
+        "sourceHeight": 400,
+        "sourceSize": 19718,
+        "blurPlaceholder": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAAAwAwCdASoLABQAPzmGulQ+qSWjMAgD0CcJZQAAeudBqR1gAP7N2JpYyIIZPK1wAAA=",
+        "variants": [
+          {
+            "width": 225,
+            "height": 400,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl11-225.avif",
+              "size": 10229
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl11-225.webp",
+              "size": 18556
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl11-225.jpg",
+              "size": 15856
+            }
+          }
+        ]
+      },
+      {
+        "source": "girl12.webp",
+        "sourceWidth": 225,
+        "sourceHeight": 400,
+        "sourceSize": 23734,
+        "blurPlaceholder": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAgCdASoLABQAPzmGuVO/qSWsMAgD8CcJQBdgBcBAAP7Wp/DAEcPt0leYnqSfQYAAAA==",
+        "variants": [
+          {
+            "width": 225,
+            "height": 400,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl12-225.avif",
+              "size": 12545
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl12-225.webp",
+              "size": 21898
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl12-225.jpg",
+              "size": 17230
+            }
+          }
+        ]
+      },
+      {
+        "source": "girl13.webp",
+        "sourceWidth": 225,
+        "sourceHeight": 400,
+        "sourceSize": 15484,
+        "blurPlaceholder": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAgCdASoLABQAPzmGulQ/qSWjMAgD8CcJZQCdAC0kAAD+vYMtZLoYlK7dYenYk8XmAvDVAAA=",
+        "variants": [
+          {
+            "width": 225,
+            "height": 400,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl13-225.avif",
+              "size": 8981
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl13-225.webp",
+              "size": 14290
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl13-225.jpg",
+              "size": 12595
+            }
+          }
+        ]
+      }
+    ],
+    "hero-gallery": [
+      {
+        "source": "girl1.webp",
+        "sourceWidth": 400,
+        "sourceHeight": 225,
+        "sourceSize": 5002,
+        "blurPlaceholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADwAgCdASoUAAsAPzmIulQ+qSWjMAgD0CcJZwC2yC5JAAD+5NnMCLpzHkwrAAAA",
+        "variants": [
+          {
+            "width": 225,
+            "height": 127,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl1-225.avif",
+              "size": 1728
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl1-225.webp",
+              "size": 1940
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl1-225.jpg",
+              "size": 2643
+            }
+          },
+          {
+            "width": 300,
+            "height": 169,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl1-300.avif",
+              "size": 2434
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl1-300.webp",
+              "size": 2710
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl1-300.jpg",
+              "size": 3844
+            }
+          },
+          {
+            "width": 390,
+            "height": 219,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl1-390.avif",
+              "size": 3278
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl1-390.webp",
+              "size": 3642
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl1-390.jpg",
+              "size": 5359
+            }
+          },
+          {
+            "width": 400,
+            "height": 225,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl1-400.avif",
+              "size": 3755
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl1-400.webp",
+              "size": 4356
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl1-400.jpg",
+              "size": 5843
+            }
+          }
+        ]
+      },
+      {
+        "source": "girl2.webp",
+        "sourceWidth": 400,
+        "sourceHeight": 225,
+        "sourceSize": 6112,
+        "blurPlaceholder": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADwAgCdASoUAAsAPzmGulQ+qSWosAgD0CcJZwC/OC5JAAD+53DVCMAkNebZmgCqAAA=",
+        "variants": [
+          {
+            "width": 225,
+            "height": 127,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl2-225.avif",
+              "size": 2099
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl2-225.webp",
+              "size": 2334
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl2-225.jpg",
+              "size": 3019
+            }
+          },
+          {
+            "width": 300,
+            "height": 169,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl2-300.avif",
+              "size": 2890
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl2-300.webp",
+              "size": 3412
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl2-300.jpg",
+              "size": 4433
+            }
+          },
+          {
+            "width": 390,
+            "height": 219,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl2-390.avif",
+              "size": 3781
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl2-390.webp",
+              "size": 4430
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl2-390.jpg",
+              "size": 6130
+            }
+          },
+          {
+            "width": 400,
+            "height": 225,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl2-400.avif",
+              "size": 4458
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl2-400.webp",
+              "size": 5420
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl2-400.jpg",
+              "size": 6785
+            }
+          }
+        ]
+      },
+      {
+        "source": "girl4.webp",
+        "sourceWidth": 300,
+        "sourceHeight": 400,
+        "sourceSize": 18984,
+        "blurPlaceholder": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAAAwAwCdASoPABQAPzmKulQ/qaWjMAgD8CcJYwAAg8SBJqcAAP7j1/xLY9xLT2AkHKL5QgAA",
+        "variants": [
+          {
+            "width": 225,
+            "height": 300,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl4-225.avif",
+              "size": 7540
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl4-225.webp",
+              "size": 11170
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl4-225.jpg",
+              "size": 11007
+            }
+          },
+          {
+            "width": 300,
+            "height": 400,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl4-300.avif",
+              "size": 11524
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl4-300.webp",
+              "size": 17264
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl4-300.jpg",
+              "size": 16769
+            }
+          }
+        ]
+      },
+      {
+        "source": "girl6.webp",
+        "sourceWidth": 300,
+        "sourceHeight": 400,
+        "sourceSize": 34026,
+        "blurPlaceholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAgCdASoPABQAPzmEuVOvKKWisAgB4CcJQBdgBaSAAP65nWfoPi2bEsPMz4AA",
+        "variants": [
+          {
+            "width": 225,
+            "height": 300,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl6-225.avif",
+              "size": 10441
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl6-225.webp",
+              "size": 17572
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl6-225.jpg",
+              "size": 14633
+            }
+          },
+          {
+            "width": 300,
+            "height": 400,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl6-300.avif",
+              "size": 18475
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl6-300.webp",
+              "size": 31692
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl6-300.jpg",
+              "size": 24930
+            }
+          }
+        ]
+      },
+      {
+        "source": "girl7.webp",
+        "sourceWidth": 300,
+        "sourceHeight": 400,
+        "sourceSize": 39876,
+        "blurPlaceholder": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADwAgCdASoPABQAPzmGulQ+qSWkMAgD0CcJYwC06C2xAAD+0CwCnwGKccs1uGgmCAAAAA==",
+        "variants": [
+          {
+            "width": 225,
+            "height": 300,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl7-225.avif",
+              "size": 11291
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl7-225.webp",
+              "size": 19472
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl7-225.jpg",
+              "size": 15164
+            }
+          },
+          {
+            "width": 300,
+            "height": 400,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl7-300.avif",
+              "size": 21688
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl7-300.webp",
+              "size": 37586
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl7-300.jpg",
+              "size": 27411
+            }
+          }
+        ]
+      },
+      {
+        "source": "girl8.webp",
+        "sourceWidth": 300,
+        "sourceHeight": 400,
+        "sourceSize": 39446,
+        "blurPlaceholder": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAABQAwCdASoPABQAPzmIulQ+qSWkMAgD0CcJYwC7ACzu2XQ4QAD+ku9IVbxDE5yVkzEiAAAA",
+        "variants": [
+          {
+            "width": 225,
+            "height": 300,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl8-225.avif",
+              "size": 10785
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl8-225.webp",
+              "size": 19402
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl8-225.jpg",
+              "size": 14970
+            }
+          },
+          {
+            "width": 300,
+            "height": 400,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl8-300.avif",
+              "size": 21184
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl8-300.webp",
+              "size": 37198
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/hero-gallery/girl8-300.jpg",
+              "size": 27096
+            }
+          }
+        ]
+      }
+    ],
+    "og-image": [
+      {
+        "source": "girl7.webp",
+        "sourceWidth": 300,
+        "sourceHeight": 400,
+        "sourceSize": 39876,
+        "blurPlaceholder": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADwAgCdASoPABQAPzmGulQ+qSWkMAgD0CcJYwC06C2xAAD+0CwCnwGKccs1uGgmCAAAAA==",
+        "variants": [
+          {
+            "width": 300,
+            "height": 400,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/og-image/girl7-300.avif",
+              "size": 21688
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/og-image/girl7-300.webp",
+              "size": 37586
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/og-image/girl7-300.jpg",
+              "size": 27411
+            }
+          }
+        ]
+      }
+    ],
+    "favicon": [
+      {
+        "source": "girl1.webp",
+        "sourceWidth": 400,
+        "sourceHeight": 225,
+        "sourceSize": 5002,
+        "blurPlaceholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADwAgCdASoUAAsAPzmIulQ+qSWjMAgD0CcJZwC2yC5JAAD+5NnMCLpzHkwrAAAA",
+        "variants": [
+          {
+            "width": 32,
+            "height": 18,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-32.avif",
+              "size": 412
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-32.webp",
+              "size": 244
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-32.jpg",
+              "size": 493
+            }
+          },
+          {
+            "width": 48,
+            "height": 27,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-48.avif",
+              "size": 487
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-48.webp",
+              "size": 332
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-48.jpg",
+              "size": 604
+            }
+          },
+          {
+            "width": 64,
+            "height": 36,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-64.avif",
+              "size": 565
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-64.webp",
+              "size": 472
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-64.jpg",
+              "size": 727
+            }
+          },
+          {
+            "width": 128,
+            "height": 72,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-128.avif",
+              "size": 963
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-128.webp",
+              "size": 1026
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-128.jpg",
+              "size": 1342
+            }
+          },
+          {
+            "width": 256,
+            "height": 144,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-256.avif",
+              "size": 2000
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-256.webp",
+              "size": 2186
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-256.jpg",
+              "size": 3002
+            }
+          },
+          {
+            "width": 400,
+            "height": 225,
+            "avif": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-400.avif",
+              "size": 3755
+            },
+            "webp": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-400.webp",
+              "size": 4356
+            },
+            "jpeg": {
+              "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-400.jpg",
+              "size": 5843
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "generatedAt": "2026-10-19T18:21:32.962Z"
+}

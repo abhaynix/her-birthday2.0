@@ -1,0 +1,40 @@
+{
+  "inventory": [
+    {"name": "girl1.webp", "width": 400, "height": 225, "size": 5002, "aspect": 1.778, "orientation": "landscape", "format": "WEBP"},
+    {"name": "girl2.webp", "width": 400, "height": 225, "size": 6112, "aspect": 1.778, "orientation": "landscape", "format": "WEBP"},
+    {"name": "girl4.webp", "width": 300, "height": 400, "size": 18984, "aspect": 0.75, "orientation": "portrait-3:4", "format": "WEBP"},
+    {"name": "girl5.webp", "width": 225, "height": 400, "size": 16382, "aspect": 0.5625, "orientation": "portrait-9:16", "format": "WEBP"},
+    {"name": "girl6.webp", "width": 300, "height": 400, "size": 34026, "aspect": 0.75, "orientation": "portrait-3:4", "format": "WEBP"},
+    {"name": "girl7.webp", "width": 300, "height": 400, "size": 39876, "aspect": 0.75, "orientation": "portrait-3:4", "format": "WEBP"},
+    {"name": "girl8.webp", "width": 300, "height": 400, "size": 39446, "aspect": 0.75, "orientation": "portrait-3:4", "format": "WEBP"},
+    {"name": "girl9.webp", "width": 225, "height": 400, "size": 20636, "aspect": 0.5625, "orientation": "portrait-9:16", "format": "WEBP"},
+    {"name": "girl10.webp", "width": 225, "height": 400, "size": 13690, "aspect": 0.5625, "orientation": "portrait-9:16", "format": "WEBP"},
+    {"name": "girl11.webp", "width": 225, "height": 400, "size": 19718, "aspect": 0.5625, "orientation": "portrait-9:16", "format": "WEBP"},
+    {"name": "girl12.webp", "width": 225, "height": 400, "size": 23734, "aspect": 0.5625, "orientation": "portrait-9:16", "format": "WEBP"},
+    {"name": "girl13.webp", "width": 225, "height": 400, "size": 15484, "aspect": 0.5625, "orientation": "portrait-9:16", "format": "WEBP"}
+  ],
+  "slots": [
+    {"id": "hero-gallery", "component": "Stage2HeroGallery", "count": 11, "requiredAspect": 1.17, "displaySizes": {"1440": "144x112", "768": "128x100", "390": "112x96"}, "isTexture": false},
+    {"id": "polaroid-board", "component": "Stage3LetterSection", "count": 10, "requiredAspect": 1.0, "displaySizes": {"1440": "224x224", "768": "200x200", "390": "176x176"}, "isTexture": false},
+    {"id": "scrapbook-album", "component": "Stage4ScrapbookAlbum", "count": 10, "requiredAspect": 1.0, "displaySizes": {"1440": "96x96", "768": "80x80", "390": "64x64"}, "isTexture": false},
+    {"id": "threejs-memory", "component": "Stage5ThreeUniverse", "count": 12, "requiredAspect": 0.75, "displaySizes": {"1440": "1.8x2.4 units", "768": "1.8x2.4 units", "390": "1.8x2.4 units"}, "isTexture": true},
+    {"id": "og-image", "component": "index.html/meta", "count": 1, "requiredAspect": 1.91, "displaySizes": {"1440": "1200x630", "768": "1200x630", "390": "1200x630"}, "isTexture": false},
+    {"id": "favicon", "component": "index.html/link", "count": 1, "requiredAspect": 1.0, "displaySizes": {"1440": "32x32", "768": "32x32", "390": "32x32"}, "isTexture": false}
+  ],
+  "assignments": [
+    {"slotId": "threejs-memory", "assignedImages": ["girl4.webp", "girl6.webp", "girl7.webp", "girl8.webp"], "reason": "Perfect 3:4 aspect match for PlaneGeometry(1.8,2.4); GPU-friendly 300x400 source"},
+    {"slotId": "polaroid-board", "assignedImages": ["girl5.webp", "girl9.webp", "girl10.webp", "girl11.webp", "girl12.webp", "girl13.webp"], "reason": "Portrait 9:16 crops well to 1:1 square with object-position center-top for faces"},
+    {"slotId": "scrapbook-album", "assignedImages": ["girl5.webp", "girl9.webp", "girl10.webp", "girl11.webp", "girl12.webp", "girl13.webp"], "reason": "Same portrait set reused for scrapbook polaroids; 6 images for 10 slots"},
+    {"slotId": "hero-gallery", "assignedImages": ["girl1.webp", "girl2.webp", "girl4.webp", "girl6.webp", "girl7.webp", "girl8.webp"], "reason": "Landscape + 3:4 images for marquee ribbon; 6 images for 11 slots with center crop"},
+    {"slotId": "og-image", "assignedImages": ["girl7.webp"], "reason": "Best quality 300x400 portrait; will be cropped to 1.91:1 for OG"},
+    {"slotId": "favicon", "assignedImages": ["girl1.webp"], "reason": "Simple landscape, scales down to 32x32 cleanly"}
+  ],
+  "notes": [
+    "Total slots: 45 (11+10+10+12+1+1) vs 12 source images = heavy reuse required",
+    "Three.js textures get dedicated 3:4 source images (girl4,6,7,8) - no crop needed",
+    "Polaroid & Scrapbook share 6 portrait images (girl5,9,10,11,12,13) - object-position: center-top to preserve faces",
+    "Hero gallery uses 2 landscape + 4 3:4 images = 6 images for 11 slots",
+    "girl3.webp missing from source (referenced in code but not in public/ref)",
+    "heart.jpg referenced in INITIAL_PHOTOS but not in public/ref"
+  ]
+}

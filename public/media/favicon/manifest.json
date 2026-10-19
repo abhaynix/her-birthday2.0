@@ -1,0 +1,111 @@
+{
+  "slotId": "favicon",
+  "processedAt": "2026-10-19T18:21:32.962Z",
+  "images": [
+    {
+      "source": "girl1.webp",
+      "sourceWidth": 400,
+      "sourceHeight": 225,
+      "sourceSize": 5002,
+      "blurPlaceholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADwAgCdASoUAAsAPzmIulQ+qSWjMAgD0CcJZwC2yC5JAAD+5NnMCLpzHkwrAAAA",
+      "variants": [
+        {
+          "width": 32,
+          "height": 18,
+          "avif": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-32.avif",
+            "size": 412
+          },
+          "webp": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-32.webp",
+            "size": 244
+          },
+          "jpeg": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-32.jpg",
+            "size": 493
+          }
+        },
+        {
+          "width": 48,
+          "height": 27,
+          "avif": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-48.avif",
+            "size": 487
+          },
+          "webp": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-48.webp",
+            "size": 332
+          },
+          "jpeg": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-48.jpg",
+            "size": 604
+          }
+        },
+        {
+          "width": 64,
+          "height": 36,
+          "avif": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-64.avif",
+            "size": 565
+          },
+          "webp": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-64.webp",
+            "size": 472
+          },
+          "jpeg": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-64.jpg",
+            "size": 727
+          }
+        },
+        {
+          "width": 128,
+          "height": 72,
+          "avif": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-128.avif",
+            "size": 963
+          },
+          "webp": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-128.webp",
+            "size": 1026
+          },
+          "jpeg": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-128.jpg",
+            "size": 1342
+          }
+        },
+        {
+          "width": 256,
+          "height": 144,
+          "avif": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-256.avif",
+            "size": 2000
+          },
+          "webp": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-256.webp",
+            "size": 2186
+          },
+          "jpeg": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-256.jpg",
+            "size": 3002
+          }
+        },
+        {
+          "width": 400,
+          "height": 225,
+          "avif": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-400.avif",
+            "size": 3755
+          },
+          "webp": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-400.webp",
+            "size": 4356
+          },
+          "jpeg": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/favicon/girl1-400.jpg",
+            "size": 5843
+          }
+        }
+      ]
+    }
+  ]
+}

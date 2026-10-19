@@ -1,0 +1,6 @@
+{
+  "name": "Birthday Celebration Experience & Parity Clone",
+  "description": "A high-fidelity clone of the interactive birthday celebration experience featuring age odometer roll, canvas flame ignition particle physics, horizontal parallax memory cards, 3D turning scrapbook album, and 3D interactive birthday cake with blowout candles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

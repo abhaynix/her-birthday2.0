@@ -1,0 +1,106 @@
+{
+  "slotId": "threejs-memory",
+  "processedAt": "2026-10-19T18:21:18.244Z",
+  "images": [
+    {
+      "source": "girl4.webp",
+      "sourceWidth": 300,
+      "sourceHeight": 400,
+      "sourceSize": 18984,
+      "blurPlaceholder": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAAAwAwCdASoPABQAPzmKulQ/qaWjMAgD8CcJYwAAg8SBJqcAAP7j1/xLY9xLT2AkHKL5QgAA",
+      "variants": [
+        {
+          "width": 256,
+          "height": 512,
+          "avif": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/threejs-memory/girl4-256.avif",
+            "size": 8688
+          },
+          "webp": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/threejs-memory/girl4-256.webp",
+            "size": 12554
+          },
+          "jpeg": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/threejs-memory/girl4-256.jpg",
+            "size": 12920
+          }
+        }
+      ]
+    },
+    {
+      "source": "girl6.webp",
+      "sourceWidth": 300,
+      "sourceHeight": 400,
+      "sourceSize": 34026,
+      "blurPlaceholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADQAgCdASoPABQAPzmEuVOvKKWisAgB4CcJQBdgBaSAAP65nWfoPi2bEsPMz4AA",
+      "variants": [
+        {
+          "width": 256,
+          "height": 512,
+          "avif": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/threejs-memory/girl6-256.avif",
+            "size": 12447
+          },
+          "webp": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/threejs-memory/girl6-256.webp",
+            "size": 20696
+          },
+          "jpeg": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/threejs-memory/girl6-256.jpg",
+            "size": 17549
+          }
+        }
+      ]
+    },
+    {
+      "source": "girl7.webp",
+      "sourceWidth": 300,
+      "sourceHeight": 400,
+      "sourceSize": 39876,
+      "blurPlaceholder": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADwAgCdASoPABQAPzmGulQ+qSWkMAgD0CcJYwC06C2xAAD+0CwCnwGKccs1uGgmCAAAAA==",
+      "variants": [
+        {
+          "width": 256,
+          "height": 512,
+          "avif": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/threejs-memory/girl7-256.avif",
+            "size": 13206
+          },
+          "webp": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/threejs-memory/girl7-256.webp",
+            "size": 23032
+          },
+          "jpeg": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/threejs-memory/girl7-256.jpg",
+            "size": 18436
+          }
+        }
+      ]
+    },
+    {
+      "source": "girl8.webp",
+      "sourceWidth": 300,
+      "sourceHeight": 400,
+      "sourceSize": 39446,
+      "blurPlaceholder": "data:image/webp;base64,UklGRkAAAABXRUJQVlA4IDQAAABQAwCdASoPABQAPzmIulQ+qSWkMAgD0CcJYwC7ACzu2XQ4QAD+ku9IVbxDE5yVkzEiAAAA",
+      "variants": [
+        {
+          "width": 256,
+          "height": 512,
+          "avif": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/threejs-memory/girl8-256.avif",
+            "size": 13048
+          },
+          "webp": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/threejs-memory/girl8-256.webp",
+            "size": 22914
+          },
+          "jpeg": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/threejs-memory/girl8-256.jpg",
+            "size": 18190
+          }
+        }
+      ]
+    }
+  ]
+}

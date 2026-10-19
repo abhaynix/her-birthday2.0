@@ -1,0 +1,1031 @@
+[
+  {
+    "id": "MAN-0001",
+    "category": "ROUTE",
+    "item": "root_snap_container",
+    "sourceValue": "div.snap-y.snap-mandatory",
+    "cloneValue": "div.snap-y.snap-mandatory",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0002",
+    "category": "STATE",
+    "item": "stage1_intro_counter",
+    "sourceValue": "Odometer 00 to 20 with loop blur",
+    "cloneValue": "Odometer 00 to 20 with loop blur",
+    "status": "PASS",
+    "evidence": "public/birthday.html"
+  },
+  {
+    "id": "MAN-0003",
+    "category": "STATE",
+    "item": "stage1_burn_ignition",
+    "sourceValue": "Canvas heat-shimmer + ember + smoke",
+    "cloneValue": "Canvas heat-shimmer + ember + smoke",
+    "status": "PASS",
+    "evidence": "public/birthday.html"
+  },
+  {
+    "id": "MAN-0004",
+    "category": "STATE",
+    "item": "stage1_balloons_release",
+    "sourceValue": "balloons-js textBalloons firing",
+    "cloneValue": "balloons-js textBalloons firing",
+    "status": "PASS",
+    "evidence": "public/birthday.html"
+  },
+  {
+    "id": "MAN-0005",
+    "category": "STATE",
+    "item": "stage2_hero_gallery",
+    "sourceValue": "Horizontal SVG path ribbon with 12 photo cards",
+    "cloneValue": "Horizontal SVG path ribbon with 12 photo cards",
+    "status": "PASS",
+    "evidence": "src/components/Stage2HeroGallery.tsx"
+  },
+  {
+    "id": "MAN-0006",
+    "category": "STATE",
+    "item": "stage3_polaroids_drag",
+    "sourceValue": "Caveat handwritten polaroids draggable grid",
+    "cloneValue": "Caveat handwritten polaroids draggable grid",
+    "status": "PASS",
+    "evidence": "src/components/Stage3LetterSection.tsx"
+  },
+  {
+    "id": "MAN-0007",
+    "category": "STATE",
+    "item": "stage4_scrapbook_flip",
+    "sourceValue": "8-page PageFlip book album with hard cover",
+    "cloneValue": "8-page PageFlip book album with hard cover",
+    "status": "PASS",
+    "evidence": "src/components/Stage4ScrapbookAlbum.tsx"
+  },
+  {
+    "id": "MAN-0008",
+    "category": "STATE",
+    "item": "stage5_three_universe",
+    "sourceValue": "Three.js 3D spherical constellation with OrbitControls",
+    "cloneValue": "Three.js 3D spherical constellation with OrbitControls",
+    "status": "PASS",
+    "evidence": "src/components/Stage5ThreeUniverse.tsx"
+  },
+  {
+    "id": "MAN-0009",
+    "category": "TEXT",
+    "item": "str_counting_the_ye",
+    "sourceValue": "counting the years",
+    "cloneValue": "counting the years",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0010",
+    "category": "TEXT",
+    "item": "str_20_October_2004",
+    "sourceValue": "20 October 2004",
+    "cloneValue": "20 October 2004",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0011",
+    "category": "TEXT",
+    "item": "str_Happy",
+    "sourceValue": "Happy",
+    "cloneValue": "Happy",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0012",
+    "category": "TEXT",
+    "item": "str_Birthday",
+    "sourceValue": "Birthday",
+    "cloneValue": "Birthday",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0013",
+    "category": "TEXT",
+    "item": "str_Sweety",
+    "sourceValue": "Sweety",
+    "cloneValue": "Sweety",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0014",
+    "category": "TEXT",
+    "item": "str_May_this_year_b",
+    "sourceValue": "May this year bring you closer to everything you're chasing.",
+    "cloneValue": "May this year bring you closer to everything you're chasing.",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0015",
+    "category": "TEXT",
+    "item": "str_Cutie___",
+    "sourceValue": "Cutie 🥹",
+    "cloneValue": "Cutie 🥹",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0016",
+    "category": "TEXT",
+    "item": "str_Baddie___",
+    "sourceValue": "Baddie 😎",
+    "cloneValue": "Baddie 😎",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0017",
+    "category": "TEXT",
+    "item": "str_Pretty__",
+    "sourceValue": "Pretty ✨",
+    "cloneValue": "Pretty ✨",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0018",
+    "category": "TEXT",
+    "item": "str_My_Love___",
+    "sourceValue": "My Love 🤍",
+    "cloneValue": "My Love 🤍",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0019",
+    "category": "TEXT",
+    "item": "str_Sunshine___",
+    "sourceValue": "Sunshine ☀️",
+    "cloneValue": "Sunshine ☀️",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0020",
+    "category": "TEXT",
+    "item": "str_Angel___",
+    "sourceValue": "Angel 🪽",
+    "cloneValue": "Angel 🪽",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0021",
+    "category": "TEXT",
+    "item": "str_Beautiful___",
+    "sourceValue": "Beautiful 🌸",
+    "cloneValue": "Beautiful 🌸",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0022",
+    "category": "TEXT",
+    "item": "str_Dream_Girl___",
+    "sourceValue": "Dream Girl 💫",
+    "cloneValue": "Dream Girl 💫",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0023",
+    "category": "TEXT",
+    "item": "str_Queen___",
+    "sourceValue": "Queen 👑",
+    "cloneValue": "Queen 👑",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0024",
+    "category": "TEXT",
+    "item": "str_Sweetheart___",
+    "sourceValue": "Sweetheart 🍓",
+    "cloneValue": "Sweetheart 🍓",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0025",
+    "category": "TEXT",
+    "item": "str_Gorgeous___",
+    "sourceValue": "Gorgeous 💕",
+    "cloneValue": "Gorgeous 💕",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0026",
+    "category": "TEXT",
+    "item": "str_Little_Star__",
+    "sourceValue": "Little Star ⭐",
+    "cloneValue": "Little Star ⭐",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0027",
+    "category": "ASSET",
+    "item": "sha256_birthday.html",
+    "sourceValue": "b0221c14ae737327230d1808e089b30a742ca98b4f5b6fa17c9c5d8029b7907a",
+    "cloneValue": "b0221c14ae737327230d1808e089b30a742ca98b4f5b6fa17c9c5d8029b7907a",
+    "status": "PASS",
+    "evidence": "public/birthday.html",
+    "file": "/birthday.html",
+    "sizeBytes": 21360
+  },
+  {
+    "id": "MAN-0028",
+    "category": "ASSET",
+    "item": "sha256_front.png",
+    "sourceValue": "de8df29504f13b152382ff4e5c7920af8d2a44fe8561700551a0b66b0167f30b",
+    "cloneValue": "de8df29504f13b152382ff4e5c7920af8d2a44fe8561700551a0b66b0167f30b",
+    "status": "PASS",
+    "evidence": "public/pages/front.png",
+    "file": "/pages/front.png",
+    "sizeBytes": 504449
+  },
+  {
+    "id": "MAN-0029",
+    "category": "ASSET",
+    "item": "sha256_left.jpg",
+    "sourceValue": "a6c8a8d0cb46c2ac46ef4802b86c9683a890b47a16b5ac6c45aa60a6443c270e",
+    "cloneValue": "a6c8a8d0cb46c2ac46ef4802b86c9683a890b47a16b5ac6c45aa60a6443c270e",
+    "status": "PASS",
+    "evidence": "public/pages/left.jpg",
+    "file": "/pages/left.jpg",
+    "sizeBytes": 124088
+  },
+  {
+    "id": "MAN-0030",
+    "category": "ASSET",
+    "item": "sha256_right.jpg",
+    "sourceValue": "84da21f9dcb814dceff3214a51031c8617756719521523c3a1b72921d0b6ebed",
+    "cloneValue": "84da21f9dcb814dceff3214a51031c8617756719521523c3a1b72921d0b6ebed",
+    "status": "PASS",
+    "evidence": "public/pages/right.jpg",
+    "file": "/pages/right.jpg",
+    "sizeBytes": 122624
+  },
+  {
+    "id": "MAN-0031",
+    "category": "ASSET",
+    "item": "sha256_back.png",
+    "sourceValue": "3d8efec109f92bb463bf056f4a1ded040416134cc22bbd31001dfe7cca2ad63d",
+    "cloneValue": "3d8efec109f92bb463bf056f4a1ded040416134cc22bbd31001dfe7cca2ad63d",
+    "status": "PASS",
+    "evidence": "public/pages/back.png",
+    "file": "/pages/back.png",
+    "sizeBytes": 496039
+  },
+  {
+    "id": "MAN-0032",
+    "category": "ASSET",
+    "item": "sha256_fwine.png",
+    "sourceValue": "7c74067e75156bd5fc441e507e12fefd6632b96dc6f0f487e0ee4986c5778a75",
+    "cloneValue": "7c74067e75156bd5fc441e507e12fefd6632b96dc6f0f487e0ee4986c5778a75",
+    "status": "PASS",
+    "evidence": "public/elements/fwine.png",
+    "file": "/elements/fwine.png",
+    "sizeBytes": 209834
+  },
+  {
+    "id": "MAN-0033",
+    "category": "ASSET",
+    "item": "sha256_side3.png",
+    "sourceValue": "6d9b53eabaefe40e07ec97f92e7e6bc34de4ee8eab63ff44c7520e58c87ba1d6",
+    "cloneValue": "6d9b53eabaefe40e07ec97f92e7e6bc34de4ee8eab63ff44c7520e58c87ba1d6",
+    "status": "PASS",
+    "evidence": "public/elements/side3.png",
+    "file": "/elements/side3.png",
+    "sizeBytes": 353387
+  },
+  {
+    "id": "MAN-0034",
+    "category": "ASSET",
+    "item": "sha256_mouse.png",
+    "sourceValue": "a24b513efc7a9bdb79396d6a8f8db325473a7ce2301cc47497d04eacf5506ee1",
+    "cloneValue": "a24b513efc7a9bdb79396d6a8f8db325473a7ce2301cc47497d04eacf5506ee1",
+    "status": "PASS",
+    "evidence": "public/elements/mouse.png",
+    "file": "/elements/mouse.png",
+    "sizeBytes": 177126
+  },
+  {
+    "id": "MAN-0035",
+    "category": "ASSET",
+    "item": "sha256_butter.png",
+    "sourceValue": "2cde12984138b0f942a9778a759bec79c46a42283a1d1717d0db194cc8f35a02",
+    "cloneValue": "2cde12984138b0f942a9778a759bec79c46a42283a1d1717d0db194cc8f35a02",
+    "status": "PASS",
+    "evidence": "public/elements/butter.png",
+    "file": "/elements/butter.png",
+    "sizeBytes": 220145
+  },
+  {
+    "id": "MAN-0036",
+    "category": "ASSET",
+    "item": "sha256_frame10.png",
+    "sourceValue": "56b3bd7b6e69bd75b4caff62d711dc167ef7aea3cfb4b9dc99b539edd545c4bc",
+    "cloneValue": "56b3bd7b6e69bd75b4caff62d711dc167ef7aea3cfb4b9dc99b539edd545c4bc",
+    "status": "PASS",
+    "evidence": "public/elements/frame10.png",
+    "file": "/elements/frame10.png",
+    "sizeBytes": 75115
+  },
+  {
+    "id": "MAN-0037",
+    "category": "ASSET",
+    "item": "sha256_text1.png",
+    "sourceValue": "fbceebf56e09835019a122f7864e7c4ba9842fe989fe7c52cb44b7832e0c9f2b",
+    "cloneValue": "fbceebf56e09835019a122f7864e7c4ba9842fe989fe7c52cb44b7832e0c9f2b",
+    "status": "PASS",
+    "evidence": "public/elements/text1.png",
+    "file": "/elements/text1.png",
+    "sizeBytes": 222400
+  },
+  {
+    "id": "MAN-0038",
+    "category": "ASSET",
+    "item": "sha256_paper.png",
+    "sourceValue": "fdc2a8d563934815c6889aee9f6e6f6ebcec413e434f87e41f462a45e40ec457",
+    "cloneValue": "fdc2a8d563934815c6889aee9f6e6f6ebcec413e434f87e41f462a45e40ec457",
+    "status": "PASS",
+    "evidence": "public/elements/paper.png",
+    "file": "/elements/paper.png",
+    "sizeBytes": 379509
+  },
+  {
+    "id": "MAN-0039",
+    "category": "ASSET",
+    "item": "sha256_starB.png",
+    "sourceValue": "d3b4ca4f117de0b254c340fe5114b3a2cae2b9d76e54f6f2f93ea8fd0dd9325b",
+    "cloneValue": "d3b4ca4f117de0b254c340fe5114b3a2cae2b9d76e54f6f2f93ea8fd0dd9325b",
+    "status": "PASS",
+    "evidence": "public/elements/starB.png",
+    "file": "/elements/starB.png",
+    "sizeBytes": 254842
+  },
+  {
+    "id": "MAN-0040",
+    "category": "ASSET",
+    "item": "sha256_frame9.png",
+    "sourceValue": "bb764170a6985509a533dd50f0502d973fce4c3b0d6932df79592b1e21d09571",
+    "cloneValue": "bb764170a6985509a533dd50f0502d973fce4c3b0d6932df79592b1e21d09571",
+    "status": "PASS",
+    "evidence": "public/elements/frame9.png",
+    "file": "/elements/frame9.png",
+    "sizeBytes": 98249
+  },
+  {
+    "id": "MAN-0041",
+    "category": "ASSET",
+    "item": "sha256_text2.png",
+    "sourceValue": "13d00e5b5c23a09373353ddb3526e30eda5d7c63f310084012aa0c7bc82d1552",
+    "cloneValue": "13d00e5b5c23a09373353ddb3526e30eda5d7c63f310084012aa0c7bc82d1552",
+    "status": "PASS",
+    "evidence": "public/elements/text2.png",
+    "file": "/elements/text2.png",
+    "sizeBytes": 101666
+  },
+  {
+    "id": "MAN-0042",
+    "category": "ASSET",
+    "item": "sha256_kit.png",
+    "sourceValue": "0efd417e3fbe1c27fe8b56202af2d52f4e7e5f8fd47a6654bb67ba4291960f3a",
+    "cloneValue": "0efd417e3fbe1c27fe8b56202af2d52f4e7e5f8fd47a6654bb67ba4291960f3a",
+    "status": "PASS",
+    "evidence": "public/elements/kit.png",
+    "file": "/elements/kit.png",
+    "sizeBytes": 66295
+  },
+  {
+    "id": "MAN-0043",
+    "category": "ASSET",
+    "item": "sha256_billa6.png",
+    "sourceValue": "a3fca8f34dfceb8fc607f2ed6bbe3c3ab537ee47a895665e4cb764086cd08996",
+    "cloneValue": "a3fca8f34dfceb8fc607f2ed6bbe3c3ab537ee47a895665e4cb764086cd08996",
+    "status": "PASS",
+    "evidence": "public/elements/billa6.png",
+    "file": "/elements/billa6.png",
+    "sizeBytes": 169041
+  },
+  {
+    "id": "MAN-0044",
+    "category": "ASSET",
+    "item": "sha256_side1.png",
+    "sourceValue": "a4cfec8267e0307253a1dd70697b4a27ce0ab3d3d4ec34d278f9e69cba74005a",
+    "cloneValue": "a4cfec8267e0307253a1dd70697b4a27ce0ab3d3d4ec34d278f9e69cba74005a",
+    "status": "PASS",
+    "evidence": "public/elements/side1.png",
+    "file": "/elements/side1.png",
+    "sizeBytes": 293820
+  },
+  {
+    "id": "MAN-0045",
+    "category": "ASSET",
+    "item": "sha256_starem.png",
+    "sourceValue": "529cb9601a154b02968a4e65967417789e736f2f0dcf10f2f857d4c555aee89e",
+    "cloneValue": "529cb9601a154b02968a4e65967417789e736f2f0dcf10f2f857d4c555aee89e",
+    "status": "PASS",
+    "evidence": "public/elements/starem.png",
+    "file": "/elements/starem.png",
+    "sizeBytes": 182234
+  },
+  {
+    "id": "MAN-0046",
+    "category": "ASSET",
+    "item": "sha256_frame11.png",
+    "sourceValue": "e4df2e0bd7b732679d82d3f55a8ad2ea8d62f99dd775a2214862467bdb3047d9",
+    "cloneValue": "e4df2e0bd7b732679d82d3f55a8ad2ea8d62f99dd775a2214862467bdb3047d9",
+    "status": "PASS",
+    "evidence": "public/elements/frame11.png",
+    "file": "/elements/frame11.png",
+    "sizeBytes": 111948
+  },
+  {
+    "id": "MAN-0047",
+    "category": "ASSET",
+    "item": "sha256_moon.png",
+    "sourceValue": "e17b584ea631ef0e720ecd3deb8fdd13cd5ccb8b1f73c3d78ef006e7c6587b21",
+    "cloneValue": "e17b584ea631ef0e720ecd3deb8fdd13cd5ccb8b1f73c3d78ef006e7c6587b21",
+    "status": "PASS",
+    "evidence": "public/elements/moon.png",
+    "file": "/elements/moon.png",
+    "sizeBytes": 299852
+  },
+  {
+    "id": "MAN-0048",
+    "category": "ASSET",
+    "item": "sha256_fits.png",
+    "sourceValue": "af77711c1248b2a51e816de0953d25b47a151b5a25c2226e33a02cff9af2b8f0",
+    "cloneValue": "af77711c1248b2a51e816de0953d25b47a151b5a25c2226e33a02cff9af2b8f0",
+    "status": "PASS",
+    "evidence": "public/elements/fits.png",
+    "file": "/elements/fits.png",
+    "sizeBytes": 75276
+  },
+  {
+    "id": "MAN-0049",
+    "category": "ASSET",
+    "item": "sha256_note1.png",
+    "sourceValue": "19348b7a08c40f4ff6fced3077b80cb64ba1ac5379d2075e8b808b0c379792c9",
+    "cloneValue": "19348b7a08c40f4ff6fced3077b80cb64ba1ac5379d2075e8b808b0c379792c9",
+    "status": "PASS",
+    "evidence": "public/elements/note1.png",
+    "file": "/elements/note1.png",
+    "sizeBytes": 88155
+  },
+  {
+    "id": "MAN-0050",
+    "category": "ASSET",
+    "item": "sha256_lovetape.png",
+    "sourceValue": "22ca25084095d60f7f087af72e5cba2595cf621020377f45099c01c300aed5c2",
+    "cloneValue": "22ca25084095d60f7f087af72e5cba2595cf621020377f45099c01c300aed5c2",
+    "status": "PASS",
+    "evidence": "public/elements/lovetape.png",
+    "file": "/elements/lovetape.png",
+    "sizeBytes": 135585
+  },
+  {
+    "id": "MAN-0051",
+    "category": "ASSET",
+    "item": "sha256_side2.png",
+    "sourceValue": "069002c8a7b91128d04282b125a00be9091fd66ee8fea9329b166c8b21105b85",
+    "cloneValue": "069002c8a7b91128d04282b125a00be9091fd66ee8fea9329b166c8b21105b85",
+    "status": "PASS",
+    "evidence": "public/elements/side2.png",
+    "file": "/elements/side2.png",
+    "sizeBytes": 251665
+  },
+  {
+    "id": "MAN-0052",
+    "category": "ASSET",
+    "item": "sha256_billa.png",
+    "sourceValue": "029b55a27dc0c078e28009c21c5689f3ff829786568ce29288736d33549ff4e7",
+    "cloneValue": "029b55a27dc0c078e28009c21c5689f3ff829786568ce29288736d33549ff4e7",
+    "status": "PASS",
+    "evidence": "public/elements/billa.png",
+    "file": "/elements/billa.png",
+    "sizeBytes": 214374
+  },
+  {
+    "id": "MAN-0053",
+    "category": "ASSET",
+    "item": "sha256_boqey.png",
+    "sourceValue": "790580ef9e027208671e36c3594981c87bb466a288b71c67e436c880c29382a5",
+    "cloneValue": "790580ef9e027208671e36c3594981c87bb466a288b71c67e436c880c29382a5",
+    "status": "PASS",
+    "evidence": "public/elements/boqey.png",
+    "file": "/elements/boqey.png",
+    "sizeBytes": 354926
+  },
+  {
+    "id": "MAN-0054",
+    "category": "ASSET",
+    "item": "sha256_frame5.png",
+    "sourceValue": "517cdeede2e61e7886357a901b66423aa0c0648ba7fba33fcd174f51a14ba1d1",
+    "cloneValue": "517cdeede2e61e7886357a901b66423aa0c0648ba7fba33fcd174f51a14ba1d1",
+    "status": "PASS",
+    "evidence": "public/frames/frame5.png",
+    "file": "/frames/frame5.png",
+    "sizeBytes": 133350
+  },
+  {
+    "id": "MAN-0055",
+    "category": "ASSET",
+    "item": "sha256_miss.png",
+    "sourceValue": "e440ca195518a383acc7e55b25f88b5c45ed6fbbc5822719a761a4a9c129723d",
+    "cloneValue": "e440ca195518a383acc7e55b25f88b5c45ed6fbbc5822719a761a4a9c129723d",
+    "status": "PASS",
+    "evidence": "public/elements/miss.png",
+    "file": "/elements/miss.png",
+    "sizeBytes": 61578
+  },
+  {
+    "id": "MAN-0056",
+    "category": "ASSET",
+    "item": "sha256_side4.png",
+    "sourceValue": "80289544f96d6bd6449a3e26173bbd932f46eedb8e9ebc6457e1d6d3fe672314",
+    "cloneValue": "80289544f96d6bd6449a3e26173bbd932f46eedb8e9ebc6457e1d6d3fe672314",
+    "status": "PASS",
+    "evidence": "public/elements/side4.png",
+    "file": "/elements/side4.png",
+    "sizeBytes": 390729
+  },
+  {
+    "id": "MAN-0057",
+    "category": "ASSET",
+    "item": "sha256_disk.png",
+    "sourceValue": "48f49e07e8546f4ef118d218a105ff15e1135098fe4680cbb9fb5e046c0dadb2",
+    "cloneValue": "48f49e07e8546f4ef118d218a105ff15e1135098fe4680cbb9fb5e046c0dadb2",
+    "status": "PASS",
+    "evidence": "public/elements/disk.png",
+    "file": "/elements/disk.png",
+    "sizeBytes": 303800
+  },
+  {
+    "id": "MAN-0058",
+    "category": "ASSET",
+    "item": "sha256_billa5.png",
+    "sourceValue": "bc98fe4eed4f746d3ee8c5b9ebb646312ea9bdb89a7083069047fc5ed2e8cf7c",
+    "cloneValue": "bc98fe4eed4f746d3ee8c5b9ebb646312ea9bdb89a7083069047fc5ed2e8cf7c",
+    "status": "PASS",
+    "evidence": "public/elements/billa5.png",
+    "file": "/elements/billa5.png",
+    "sizeBytes": 234727
+  },
+  {
+    "id": "MAN-0059",
+    "category": "ASSET",
+    "item": "sha256_frame8.png",
+    "sourceValue": "9c512e40459a0d351f891693b662308de89b4bb52d545298de33b6766d6adc97",
+    "cloneValue": "9c512e40459a0d351f891693b662308de89b4bb52d545298de33b6766d6adc97",
+    "status": "PASS",
+    "evidence": "public/elements/frame8.png",
+    "file": "/elements/frame8.png",
+    "sizeBytes": 91089
+  },
+  {
+    "id": "MAN-0060",
+    "category": "ASSET",
+    "item": "sha256_twoStar.png",
+    "sourceValue": "20ea073c0a20c7c3f3d5e4ff1eb480bcbb558d1f8afebd98d68d6c46aa1c790b",
+    "cloneValue": "20ea073c0a20c7c3f3d5e4ff1eb480bcbb558d1f8afebd98d68d6c46aa1c790b",
+    "status": "PASS",
+    "evidence": "public/elements/twoStar.png",
+    "file": "/elements/twoStar.png",
+    "sizeBytes": 165749
+  },
+  {
+    "id": "MAN-0061",
+    "category": "ASSET",
+    "item": "sha256_text3.png",
+    "sourceValue": "ad6744a37f8c9bcb0da5292da132320c5054f21f292af9c25fa46b426bd805c2",
+    "cloneValue": "ad6744a37f8c9bcb0da5292da132320c5054f21f292af9c25fa46b426bd805c2",
+    "status": "PASS",
+    "evidence": "public/elements/text3.png",
+    "file": "/elements/text3.png",
+    "sizeBytes": 70229
+  },
+  {
+    "id": "MAN-0062",
+    "category": "ASSET",
+    "item": "sha256_side5.png",
+    "sourceValue": "1457112f8b8552e053e058877e57c2ff8b08e7b35aa24e0ccbeda393de4ab506",
+    "cloneValue": "1457112f8b8552e053e058877e57c2ff8b08e7b35aa24e0ccbeda393de4ab506",
+    "status": "PASS",
+    "evidence": "public/elements/side5.png",
+    "file": "/elements/side5.png",
+    "sizeBytes": 449454
+  },
+  {
+    "id": "MAN-0063",
+    "category": "ASSET",
+    "item": "sha256_text4.png",
+    "sourceValue": "c171ded3c02d849a91cd1c175a84c7b4b38b1d821159ed7d813cdb7907a1fc22",
+    "cloneValue": "c171ded3c02d849a91cd1c175a84c7b4b38b1d821159ed7d813cdb7907a1fc22",
+    "status": "PASS",
+    "evidence": "public/elements/text4.png",
+    "file": "/elements/text4.png",
+    "sizeBytes": 192351
+  },
+  {
+    "id": "MAN-0064",
+    "category": "ASSET",
+    "item": "sha256_frame7.png",
+    "sourceValue": "9fe860d643fdce370c6f671740daf4c72d09b28c564c10420a187674f541389f",
+    "cloneValue": "9fe860d643fdce370c6f671740daf4c72d09b28c564c10420a187674f541389f",
+    "status": "PASS",
+    "evidence": "public/elements/frame7.png",
+    "file": "/elements/frame7.png",
+    "sizeBytes": 112318
+  },
+  {
+    "id": "MAN-0065",
+    "category": "ASSET",
+    "item": "sha256_billa4.png",
+    "sourceValue": "87735f537c3fd29313e6129671567885d35e20705b8c6adf2e548d2d13705b2d",
+    "cloneValue": "87735f537c3fd29313e6129671567885d35e20705b8c6adf2e548d2d13705b2d",
+    "status": "PASS",
+    "evidence": "public/elements/billa4.png",
+    "file": "/elements/billa4.png",
+    "sizeBytes": 133455
+  },
+  {
+    "id": "MAN-0066",
+    "category": "ASSET",
+    "item": "sha256_heart.jpg",
+    "sourceValue": "db2f5e3baae827ca9ae3163f8cbf7cd082af000d496e43c1291ccb4f19878ae5",
+    "cloneValue": "db2f5e3baae827ca9ae3163f8cbf7cd082af000d496e43c1291ccb4f19878ae5",
+    "status": "PASS",
+    "evidence": "public/ref/heart.jpg",
+    "file": "/ref/heart.jpg",
+    "sizeBytes": 178976
+  },
+  {
+    "id": "MAN-0067",
+    "category": "ASSET",
+    "item": "sha256_girl.jpg",
+    "sourceValue": "1f56d60a07897c5cbbe38f82c9bc05e0152228e7d18567852ed683e55a47ae32",
+    "cloneValue": "1f56d60a07897c5cbbe38f82c9bc05e0152228e7d18567852ed683e55a47ae32",
+    "status": "PASS",
+    "evidence": "public/ref/girl.jpg",
+    "file": "/ref/girl.jpg",
+    "sizeBytes": 52037
+  },
+  {
+    "id": "MAN-0068",
+    "category": "ASSET",
+    "item": "sha256_girl2.jpg",
+    "sourceValue": "a105a8b76f52d8241d021adf8be238bec8eafaa9da72adee15aaf13ed7ee5205",
+    "cloneValue": "a105a8b76f52d8241d021adf8be238bec8eafaa9da72adee15aaf13ed7ee5205",
+    "status": "PASS",
+    "evidence": "public/ref/girl2.jpg",
+    "file": "/ref/girl2.jpg",
+    "sizeBytes": 44800
+  },
+  {
+    "id": "MAN-0069",
+    "category": "ASSET",
+    "item": "sha256_girl3.jpg",
+    "sourceValue": "98900181e06f4c7abe5a14c9db3c4683e6d3276ced2f3e28423ce7c66d075205",
+    "cloneValue": "98900181e06f4c7abe5a14c9db3c4683e6d3276ced2f3e28423ce7c66d075205",
+    "status": "PASS",
+    "evidence": "public/ref/girl3.jpg",
+    "file": "/ref/girl3.jpg",
+    "sizeBytes": 85953
+  },
+  {
+    "id": "MAN-0070",
+    "category": "ASSET",
+    "item": "sha256_girl4.jpg",
+    "sourceValue": "f323f06046ca13f6ffffb660d90550f4bf8a70cea3c458f0e3123e2af8e36785",
+    "cloneValue": "f323f06046ca13f6ffffb660d90550f4bf8a70cea3c458f0e3123e2af8e36785",
+    "status": "PASS",
+    "evidence": "public/ref/girl4.jpg",
+    "file": "/ref/girl4.jpg",
+    "sizeBytes": 66583
+  },
+  {
+    "id": "MAN-0071",
+    "category": "ASSET",
+    "item": "sha256_girl5.jpg",
+    "sourceValue": "4188f528393a72354812fa52f26f33980bd084dac5e4cf5436562e88a60a8712",
+    "cloneValue": "4188f528393a72354812fa52f26f33980bd084dac5e4cf5436562e88a60a8712",
+    "status": "PASS",
+    "evidence": "public/ref/girl5.jpg",
+    "file": "/ref/girl5.jpg",
+    "sizeBytes": 133859
+  },
+  {
+    "id": "MAN-0072",
+    "category": "ASSET",
+    "item": "sha256_girl6.jpg",
+    "sourceValue": "b2ce994e8aad9ef4e42edb715c562b9f9286b377c6ba3c1183a559c791d8311e",
+    "cloneValue": "b2ce994e8aad9ef4e42edb715c562b9f9286b377c6ba3c1183a559c791d8311e",
+    "status": "PASS",
+    "evidence": "public/ref/girl6.jpg",
+    "file": "/ref/girl6.jpg",
+    "sizeBytes": 57521
+  },
+  {
+    "id": "MAN-0073",
+    "category": "ASSET",
+    "item": "sha256_girl7.jpg",
+    "sourceValue": "7ac42a9c1d8f7c1f1f8366705df03e2c235b1e0f65a7b7aad1f2f01cb309dd56",
+    "cloneValue": "7ac42a9c1d8f7c1f1f8366705df03e2c235b1e0f65a7b7aad1f2f01cb309dd56",
+    "status": "PASS",
+    "evidence": "public/ref/girl7.jpg",
+    "file": "/ref/girl7.jpg",
+    "sizeBytes": 57120
+  },
+  {
+    "id": "MAN-0074",
+    "category": "ASSET",
+    "item": "sha256_girl8.jpg",
+    "sourceValue": "e0935d8121c9b30d8846c3ade6419c8abb7432d35cadc8c2acba181dbd836173",
+    "cloneValue": "e0935d8121c9b30d8846c3ade6419c8abb7432d35cadc8c2acba181dbd836173",
+    "status": "PASS",
+    "evidence": "public/ref/girl8.jpg",
+    "file": "/ref/girl8.jpg",
+    "sizeBytes": 113919
+  },
+  {
+    "id": "MAN-0075",
+    "category": "ASSET",
+    "item": "sha256_girl9.jpg",
+    "sourceValue": "4579da216b7a6740d668507a91e03b805215ddefde9b44c3a041d337ac72ea39",
+    "cloneValue": "4579da216b7a6740d668507a91e03b805215ddefde9b44c3a041d337ac72ea39",
+    "status": "PASS",
+    "evidence": "public/ref/girl9.jpg",
+    "file": "/ref/girl9.jpg",
+    "sizeBytes": 85659
+  },
+  {
+    "id": "MAN-0076",
+    "category": "ASSET",
+    "item": "sha256_girl10.jpg",
+    "sourceValue": "9f5893eeec85888c3ec7a88412444263b53c55bcd94fe94b362ae08931436483",
+    "cloneValue": "9f5893eeec85888c3ec7a88412444263b53c55bcd94fe94b362ae08931436483",
+    "status": "PASS",
+    "evidence": "public/ref/girl10.jpg",
+    "file": "/ref/girl10.jpg",
+    "sizeBytes": 86652
+  },
+  {
+    "id": "MAN-0077",
+    "category": "ASSET",
+    "item": "sha256_girl11.jpg",
+    "sourceValue": "b9bcda540ce6f19cb54116e0d5efd440358d0ec27801bbb3787ffca47f771dc4",
+    "cloneValue": "b9bcda540ce6f19cb54116e0d5efd440358d0ec27801bbb3787ffca47f771dc4",
+    "status": "PASS",
+    "evidence": "public/ref/girl11.jpg",
+    "file": "/ref/girl11.jpg",
+    "sizeBytes": 45801
+  },
+  {
+    "id": "MAN-0078",
+    "category": "ANIMATION",
+    "item": "odometer_digit_roll",
+    "sourceValue": "1.05s - 1.39s / back.out(1.3)",
+    "cloneValue": "1.05s - 1.39s / back.out(1.3)",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0079",
+    "category": "ANIMATION",
+    "item": "intro_zoom_blur",
+    "sourceValue": "0.9s / power4.in",
+    "cloneValue": "0.9s / power4.in",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0080",
+    "category": "ANIMATION",
+    "item": "canvas_fire_flame",
+    "sourceValue": "2.85s / sine.inOut",
+    "cloneValue": "2.85s / sine.inOut",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0081",
+    "category": "ANIMATION",
+    "item": "balloons_confetti",
+    "sourceValue": "continuous / physics",
+    "cloneValue": "continuous / physics",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0082",
+    "category": "ANIMATION",
+    "item": "hero_ribbon_drift",
+    "sourceValue": "smooth / linear",
+    "cloneValue": "smooth / linear",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0083",
+    "category": "ANIMATION",
+    "item": "polaroid_drag_settle",
+    "sourceValue": "0.2s / spring",
+    "cloneValue": "0.2s / spring",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0084",
+    "category": "ANIMATION",
+    "item": "book_page_turn_curl",
+    "sourceValue": "0.6s / page-flip bezier",
+    "cloneValue": "0.6s / page-flip bezier",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0085",
+    "category": "ANIMATION",
+    "item": "three_fibonacci_orbit",
+    "sourceValue": "60fps RAF / rotation",
+    "cloneValue": "60fps RAF / rotation",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0086",
+    "category": "EVENT",
+    "item": "#triggerBtn_click",
+    "sourceValue": "Ignite fire burn canvas shader",
+    "cloneValue": "Ignite fire burn canvas shader",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0087",
+    "category": "EVENT",
+    "item": ".watermark-btn_hover",
+    "sourceValue": "Watermark opacity increase from 0.045 to 0.075",
+    "cloneValue": "Watermark opacity increase from 0.045 to 0.075",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0088",
+    "category": "EVENT",
+    "item": ".polaroid-card_pointerdown/drag",
+    "sourceValue": "Freeform card drag with rotation bounce",
+    "cloneValue": "Freeform card drag with rotation bounce",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0089",
+    "category": "EVENT",
+    "item": ".book-page_click/drag",
+    "sourceValue": "Page flip turn animation",
+    "cloneValue": "Page flip turn animation",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0090",
+    "category": "EVENT",
+    "item": "three-canvas_pointerdown/pointermove",
+    "sourceValue": "OrbitControls rotate and pan",
+    "cloneValue": "OrbitControls rotate and pan",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0091",
+    "category": "EVENT",
+    "item": "#audioToggle_click",
+    "sourceValue": "Toggle background celebration music",
+    "cloneValue": "Toggle background celebration music",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0092",
+    "category": "EVENT",
+    "item": "#personalizeBtn_click",
+    "sourceValue": "Open Personalization Studio modal",
+    "cloneValue": "Open Personalization Studio modal",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0093",
+    "category": "EVENT",
+    "item": "#auditDrawerBtn_click",
+    "sourceValue": "Toggle live Audit & Parity Drawer",
+    "cloneValue": "Toggle live Audit & Parity Drawer",
+    "status": "PASS",
+    "evidence": "src/App.tsx"
+  },
+  {
+    "id": "MAN-0094",
+    "category": "BREAKPOINT",
+    "item": "layout_1920px",
+    "sourceValue": "Fluid responsive snap container",
+    "cloneValue": "Fluid responsive snap container",
+    "status": "PASS",
+    "evidence": "src/App.tsx",
+    "breakpoint": 1920
+  },
+  {
+    "id": "MAN-0095",
+    "category": "BREAKPOINT",
+    "item": "layout_1536px",
+    "sourceValue": "Fluid responsive snap container",
+    "cloneValue": "Fluid responsive snap container",
+    "status": "PASS",
+    "evidence": "src/App.tsx",
+    "breakpoint": 1536
+  },
+  {
+    "id": "MAN-0096",
+    "category": "BREAKPOINT",
+    "item": "layout_1440px",
+    "sourceValue": "Fluid responsive snap container",
+    "cloneValue": "Fluid responsive snap container",
+    "status": "PASS",
+    "evidence": "src/App.tsx",
+    "breakpoint": 1440
+  },
+  {
+    "id": "MAN-0097",
+    "category": "BREAKPOINT",
+    "item": "layout_1280px",
+    "sourceValue": "Fluid responsive snap container",
+    "cloneValue": "Fluid responsive snap container",
+    "status": "PASS",
+    "evidence": "src/App.tsx",
+    "breakpoint": 1280
+  },
+  {
+    "id": "MAN-0098",
+    "category": "BREAKPOINT",
+    "item": "layout_1024px",
+    "sourceValue": "Fluid responsive snap container",
+    "cloneValue": "Fluid responsive snap container",
+    "status": "PASS",
+    "evidence": "src/App.tsx",
+    "breakpoint": 1024
+  },
+  {
+    "id": "MAN-0099",
+    "category": "BREAKPOINT",
+    "item": "layout_768px",
+    "sourceValue": "Fluid responsive snap container",
+    "cloneValue": "Fluid responsive snap container",
+    "status": "PASS",
+    "evidence": "src/App.tsx",
+    "breakpoint": 768
+  },
+  {
+    "id": "MAN-0100",
+    "category": "BREAKPOINT",
+    "item": "layout_640px",
+    "sourceValue": "Fluid responsive snap container",
+    "cloneValue": "Fluid responsive snap container",
+    "status": "PASS",
+    "evidence": "src/App.tsx",
+    "breakpoint": 640
+  },
+  {
+    "id": "MAN-0101",
+    "category": "BREAKPOINT",
+    "item": "layout_390px",
+    "sourceValue": "Fluid responsive snap container",
+    "cloneValue": "Fluid responsive snap container",
+    "status": "PASS",
+    "evidence": "src/App.tsx",
+    "breakpoint": 390
+  },
+  {
+    "id": "MAN-0102",
+    "category": "BREAKPOINT",
+    "item": "layout_360px",
+    "sourceValue": "Fluid responsive snap container",
+    "cloneValue": "Fluid responsive snap container",
+    "status": "PASS",
+    "evidence": "src/App.tsx",
+    "breakpoint": 360
+  }
+]

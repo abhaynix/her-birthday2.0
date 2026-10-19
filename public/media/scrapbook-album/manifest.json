@@ -1,0 +1,156 @@
+{
+  "slotId": "scrapbook-album",
+  "processedAt": "2026-10-19T18:21:24.441Z",
+  "images": [
+    {
+      "source": "girl5.webp",
+      "sourceWidth": 225,
+      "sourceHeight": 400,
+      "sourceSize": 16382,
+      "blurPlaceholder": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAADwAgCdASoLABQAPzmGuVOvKSWisAgB4CcJYwCdAC2xAAD+48oMWEBM0z+s+uVRgAA=",
+      "variants": [
+        {
+          "width": 225,
+          "height": 400,
+          "avif": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl5-225.avif",
+            "size": 9151
+          },
+          "webp": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl5-225.webp",
+            "size": 15162
+          },
+          "jpeg": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl5-225.jpg",
+            "size": 14951
+          }
+        }
+      ]
+    },
+    {
+      "source": "girl9.webp",
+      "sourceWidth": 225,
+      "sourceHeight": 400,
+      "sourceSize": 20636,
+      "blurPlaceholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAACwAgCdASoLABQAPzmIu1Q0qSYjMAgCkCcJQAAPlAAAzLXYT9boAZ/u9Xb975gA",
+      "variants": [
+        {
+          "width": 225,
+          "height": 400,
+          "avif": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl9-225.avif",
+            "size": 11726
+          },
+          "webp": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl9-225.webp",
+            "size": 19402
+          },
+          "jpeg": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl9-225.jpg",
+            "size": 15900
+          }
+        }
+      ]
+    },
+    {
+      "source": "girl10.webp",
+      "sourceWidth": 225,
+      "sourceHeight": 400,
+      "sourceSize": 13690,
+      "blurPlaceholder": "data:image/webp;base64,UklGRjoAAABXRUJQVlA4IC4AAADwAgCdASoLABQAPzmGuVO0qSWisAgCkCcJZQC7AC2xAAD+ucBIlx9g+8KGAAAA",
+      "variants": [
+        {
+          "width": 225,
+          "height": 400,
+          "avif": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl10-225.avif",
+            "size": 7739
+          },
+          "webp": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl10-225.webp",
+            "size": 12568
+          },
+          "jpeg": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl10-225.jpg",
+            "size": 12006
+          }
+        }
+      ]
+    },
+    {
+      "source": "girl11.webp",
+      "sourceWidth": 225,
+      "sourceHeight": 400,
+      "sourceSize": 19718,
+      "blurPlaceholder": "data:image/webp;base64,UklGRjwAAABXRUJQVlA4IDAAAAAwAwCdASoLABQAPzmGulQ+qSWjMAgD0CcJZQAAeudBqR1gAP7N2JpYyIIZPK1wAAA=",
+      "variants": [
+        {
+          "width": 225,
+          "height": 400,
+          "avif": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl11-225.avif",
+            "size": 10229
+          },
+          "webp": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl11-225.webp",
+            "size": 18556
+          },
+          "jpeg": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl11-225.jpg",
+            "size": 15856
+          }
+        }
+      ]
+    },
+    {
+      "source": "girl12.webp",
+      "sourceWidth": 225,
+      "sourceHeight": 400,
+      "sourceSize": 23734,
+      "blurPlaceholder": "data:image/webp;base64,UklGRj4AAABXRUJQVlA4IDIAAADQAgCdASoLABQAPzmGuVO/qSWsMAgD8CcJQBdgBcBAAP7Wp/DAEcPt0leYnqSfQYAAAA==",
+      "variants": [
+        {
+          "width": 225,
+          "height": 400,
+          "avif": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl12-225.avif",
+            "size": 12545
+          },
+          "webp": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl12-225.webp",
+            "size": 21898
+          },
+          "jpeg": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl12-225.jpg",
+            "size": 17230
+          }
+        }
+      ]
+    },
+    {
+      "source": "girl13.webp",
+      "sourceWidth": 225,
+      "sourceHeight": 400,
+      "sourceSize": 15484,
+      "blurPlaceholder": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAADwAgCdASoLABQAPzmGulQ/qSWjMAgD8CcJZQCdAC0kAAD+vYMtZLoYlK7dYenYk8XmAvDVAAA=",
+      "variants": [
+        {
+          "width": 225,
+          "height": 400,
+          "avif": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl13-225.avif",
+            "size": 8981
+          },
+          "webp": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl13-225.webp",
+            "size": 14290
+          },
+          "jpeg": {
+            "path": "/home/devx/Downloads/birthday-celebration-experience-&-parity-clone/public/media/scrapbook-album/girl13-225.jpg",
+            "size": 12595
+          }
+        }
+      ]
+    }
+  ]
+}
